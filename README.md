@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Samantha Marques
 
 - 📚 Faculdade de Engenharia de Software 2/8
-- 🎀 Focada em Engenharia de Dados
+- 🎀 Focada na área de dados
 - 😄 Pronomes: ela/dela
 
 <picture>
