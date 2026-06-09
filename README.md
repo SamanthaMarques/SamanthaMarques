@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samantha Marques 🖐🏻
 
-- 💻 Estagiária de Web Analytics
-- 📚 Faculdade de Engenharia de Software 4/8
+- 💻 Estagiária de FP&A Analytics
+- 📚 Faculdade de Engenharia de Software 5/8
 - 🎲 Focada na área de dados
 
 <picture>
